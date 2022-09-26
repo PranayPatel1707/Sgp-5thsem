@@ -1,0 +1,13 @@
+.navbar ul li { 
+	padding: 0px 20px; 
+ } 
+
+ .navbar sticky-top navbar-light bg-light {
+    width: 100%;
+ }
+ .ul{
+    display:flex;
+ }
+ #login{
+    padding-left:700px;
+ }
